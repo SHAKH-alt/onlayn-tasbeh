@@ -1,7 +1,3 @@
-document.getElementById("btnPlus").addEventListener("click", increaseCount);
-document.getElementById("btnMinus").addEventListener("click", decreaseCount);
-document.getElementById("btnReset").addEventListener("click", resetCount);
-
 let count = 0;
 
 function updateCount() {
